@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @celvineadiputra-dev
 - 👀 I’m interested in JAVASCRIPT & WEB DEVELOPMENT
-- 🌱 I’m currently learning MICROSERVICE (STACK MERN)
+- 🌱 I’m currently learning MICROSERVICE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
