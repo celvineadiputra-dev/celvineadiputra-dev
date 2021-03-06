@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&hide=html,css,javascript&theme=merko"/>
+
 - 👋 Hi, I’m @celvineadiputra-dev
 - 👀 I’m interested in JAVASCRIPT & WEB DEVELOPMENT
 - 🌱 I’m currently learning MICROSERVICE
