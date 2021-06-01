@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&hide=html,css,javascript&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&theme=merko"/>
 <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical"/>
 
 - 👋 Hi, I’m @celvineadiputra-dev
