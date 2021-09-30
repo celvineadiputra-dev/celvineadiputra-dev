@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @celvineadiputra-dev
 - 👀 I’m interested in JAVASCRIPT & SCSS & PHP & WEB DEVELOPMENT
-- 🕸️ See me in <a href="https://celvineprofile.vercel.app">www.celvineprofile.vercel.app</a>
+- 🕸️ See me in <a href="https://celvineadiputra.vercel.app">www.celvineadiputra.vercel.app</a>
 - Contact : celvineadiputradev@gmail.com
 
 <!---
