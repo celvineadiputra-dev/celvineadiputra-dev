@@ -1,6 +1,10 @@
-### Hey there :wave:
+### Hay There :wave:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=celvineadiputra-dev.celvineadiputra-dev)
+
+### Hay, Nice To Meet You
+
+## I am an ordinary web designer and web developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical" alt="celvine" />
 
@@ -21,10 +25,13 @@
   <img src="images/Node.svg" width="64px" height="64px" alt="NodeJs"/>
   <img src="images/Express.svg" width="64px" height="64px" alt="ExpressJs"/>
   <img src="images/Mysql.svg" width="64px" height="64px" alt="Mysql"/>
+  <img src="images/Postman.svg" width="64px" height="64px" alt="MongoDb"/>
   <img src="images/Python.svg" width="64px" height="64px" alt="Python"/>
   <img src="images/Mongo.svg" width="64px" height="64px" alt="MongoDb"/>
+  <img src="images/Figma.svg" width="64px" height="64px" alt="MongoDb"/>
+  <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/>
 </div>
 
 Hay, Saya Celvine Adi Putra, saya dari kota Palembang, sumatera selatan, Indonesia
 
-Web Profile : <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>
+Meet with me : <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>
