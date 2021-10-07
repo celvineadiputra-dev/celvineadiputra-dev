@@ -1,14 +1,13 @@
-<div>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&langs_count=5&hide=Shell,M&theme=merko"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical"/>
- </div>
+### Hey there :wave:
+![](https://visitor-badge.glitch.me/badge?page_id=celvineadiputra-dev.celvineadiputra-dev)
 
-- 👋 Hi, I’m @celvineadiputra-dev
-- 👀 I’m interested in JAVASCRIPT & SCSS & PHP & WEB DEVELOPMENT
-- 🕸️ See me in <a href="https://celvineadiputra.vercel.app">www.celvineadiputra.vercel.app</a>
-- Contact : celvineadiputradev@gmail.com
+<br />
 
-<!---
-celvineadiputra-dev/celvineadiputra-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hay, Saya Celvine Adi Putra, saya dari kota Palembang, sumatera selatan, Indonesia
+
+WEB PROFILE : <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical" alt="celvine" />
+
+
+
