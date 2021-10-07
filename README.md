@@ -3,12 +3,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=celvineadiputra-dev.celvineadiputra-dev)
 
 ### Hay, Nice To Meet You
-
-## I am an ordinary web designer and web developer.
+Hey, nice to meet you, I’m Celvine Adi Putra but people here call me Celvine. I grew up in Indonesia. I speak Indonesia and English. I love code, and design. for my profile you can visit this website <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>.
+## :footprints: I am an ordinary web designer and web developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical" alt="celvine" />
 
-## ⚡ Technologies & Tools
+## 🔥 Technologies & Tools
 
 <div>
   <img src="images/JS.svg" width="64px" height="64px" alt="JavaScript"/>
@@ -31,7 +31,3 @@
   <img src="images/Figma.svg" width="64px" height="64px" alt="MongoDb"/>
   <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/>
 </div>
-
-Hay, Saya Celvine Adi Putra, saya dari kota Palembang, sumatera selatan, Indonesia
-
-Meet with me : <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>
