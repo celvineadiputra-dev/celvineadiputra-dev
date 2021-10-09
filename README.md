@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=celvineadiputra-dev.celvineadiputra-dev)
 
 ### Hay, Nice To Meet You
-Hey, nice to meet you, I’m Celvine Adi Putra but people here call me Celvine. I grew up in Indonesia. I speak Indonesia and English. I love code, and design. for my profile you can visit this website <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>.
+Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine. I grew up in Indonesia. I speak Indonesia and English and love to code and design. For my profile, you can visit this website <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>.
 ## :footprints: I am an ordinary web designer and web developer.
 
 <img src="https://github-readme-stats.vercel.app/api?username=celvineadiputra-dev&show_icons=true&theme=radical" alt="celvine" />
