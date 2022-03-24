@@ -28,7 +28,14 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
   <img src="images/Mysql.svg" width="64px" height="64px" alt="Mysql"/>
   <img src="images/Postman.svg" width="64px" height="64px" alt="MongoDb"/>
   <img src="images/Python.svg" width="64px" height="64px" alt="Python"/>
-  <img src="images/Mongo.svg" width="64px" height="64px" alt="MongoDb"/>
+  <!-- <img src="images/Mongo.svg" width="64px" height="64px" alt="MongoDb"/> -->
   <img src="images/Figma.svg" width="64px" height="64px" alt="MongoDb"/>
-  <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/>
+  <!-- <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/> -->
+  <img src="images/Flutter.svg" width="64px" height="64px" alt="Flutter"/>
+  <img src="images/JetpackCompose.svg" width="64px" height="64px" alt="JetPackCompose"/>
 </div>
+
+## 🌿 App Link Demo [Mobile]
+| No | App Name         | Link Repository | Link Demo App |
+|----|------------------|-----------------|---------------|
+| 1  | Travel Nusantara | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a>              | <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view usp=sharing">Download Android App</a>      |
