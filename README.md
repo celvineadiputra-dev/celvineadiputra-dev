@@ -26,13 +26,14 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
   <img src="images/Node.svg" width="64px" height="64px" alt="NodeJs"/>
   <img src="images/Express.svg" width="64px" height="64px" alt="ExpressJs"/>
   <img src="images/Mysql.svg" width="64px" height="64px" alt="Mysql"/>
+  <img src="images/Dart.svg" width="64px" height="64px" alt="Dart"/>
+  <img src="images/Flutter.svg" width="64px" height="64px" alt="Flutter"/>
+  <img src="images/JetpackCompose.svg" width="64px" height="64px" alt="JetPackCompose"/>
   <img src="images/Postman.svg" width="64px" height="64px" alt="MongoDb"/>
   <img src="images/Python.svg" width="64px" height="64px" alt="Python"/>
   <!-- <img src="images/Mongo.svg" width="64px" height="64px" alt="MongoDb"/> -->
   <img src="images/Figma.svg" width="64px" height="64px" alt="MongoDb"/>
   <!-- <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/> -->
-  <img src="images/Flutter.svg" width="64px" height="64px" alt="Flutter"/>
-  <img src="images/JetpackCompose.svg" width="64px" height="64px" alt="JetPackCompose"/>
 </div>
 
 ## 🌿 App Link Demo [Mobile]
