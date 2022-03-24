@@ -38,4 +38,4 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
 ## 🌿 App Link Demo [Mobile]
 | No | App Name         | Link Repository | Link Demo App |
 |----|------------------|-----------------|---------------|
-| 1  | Travel Nusantara | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a>              | <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view usp=sharing">Download Android App</a>      |
+| 1  | Travel Nusantara | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a>              | <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view?usp=sharing">Download Android App</a>      |
