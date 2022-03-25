@@ -37,6 +37,6 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
 </div>
 
 ## 🌿 App Link Demo [Mobile]
-| **Number** |   **App Name**   | **Techonlogy** | **Repository** | **Demo** |
+| **Number** |   **App Name**   | **Technology** | **Repository** | **Demo** |
 |:----------:|:----------------:|:--------------:|:--------------:|:--------:|
 | 1          | Travel Nusantara | Flutter 2.10.3 | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a>               | <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view?usp=sharing">Download Android App</a>         |
