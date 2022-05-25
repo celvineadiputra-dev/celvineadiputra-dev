@@ -37,6 +37,7 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
 </div>
 
 ## 🌿 App Link Demo [Mobile]
-| **Number** |   **App Name**   | **Techonlogy** |                              **Repository**                              |                                                        **Demo**                                                       |
-|:----------:|:----------------:|:--------------:|:------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
-| 1          | Travel Nusantara | Flutter 2.10.3 | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a> | <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view?usp=sharing">Download Android App</a> |
+| **Number** | **App Name**          | **Techonlogy** | **Repository** | **Demo**             |
+|------------|-----------------------|----------------|----------------|----------------------|
+| 1          | Travel Nusantara      | Flutter 2.10.3 | <a href="https://github.com/celvineadiputra-dev/travel-nusantara">Go</a>| <a href="https://drive.google.com/file/d/1JSEmc6CuyaQ2xIoDg3ccBSQ3sFisMEQX/view?usp=sharing">Download Android App</a> |
+| 2          | Scope Traffic Counter | Flutter 2.10.3  | Private              | <a href="https://play.google.com/store/apps/details?id=com.celvine.th.scope_traffic_counter">Download Android App</a> |
