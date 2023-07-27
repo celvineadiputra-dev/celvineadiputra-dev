@@ -6,9 +6,7 @@
 Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine. I grew up in Indonesia, and I can speak Indonesia and a little bit of English. I love to code and design. For my profile and what I work on, you can visit this website for more details about me  <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>.
 ## :footprints: I am an ordinary web designer and web developer.
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celvineadiputra-dev&theme=radical&layout=compact&langs_count=10&hide=blade&count_private=true" width="300"/>
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=celvineadiputra-dev&theme=merko&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🔥 Technologies & Tools
 
