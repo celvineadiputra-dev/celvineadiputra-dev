@@ -12,8 +12,10 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
 
 <div>
   <img src="images/JS.svg" width="64px" height="64px" alt="JavaScript"/>
+  <img src="images/Typescript.svg" width="64px" height="64px" alt="Typescript"/>
   <img src="images/Vue.svg" width="64px" height="64px" alt="VueJs"/>
   <img src="images/React.svg" width="64px" height="64px" alt="ReactJs"/>
+  <img src="images/NestJs.svg" width="64px" height="64px" alt="NestJs"/>
   <img src="images/Css.svg" width="64px" height="64px" alt="Css"/>
   <img src="images/Sass.svg" width="64px" height="64px" alt="Sass"/>
   <img src="images/Bootstrap.svg" width="64px" height="64px" alt="Bootrap"/>
@@ -30,7 +32,7 @@ Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine.
   <img src="images/JetpackCompose.svg" width="64px" height="64px" alt="JetPackCompose"/>
   <img src="images/Postman.svg" width="64px" height="64px" alt="MongoDb"/>
   <img src="images/Python.svg" width="64px" height="64px" alt="Python"/>
-  <!-- <img src="images/Mongo.svg" width="64px" height="64px" alt="MongoDb"/> -->
-  <img src="images/Figma.svg" width="64px" height="64px" alt="MongoDb"/>
-  <!-- <img src="images/XD.svg" width="64px" height="64px" alt="MongoDb"/> -->
+  <img src="images/Figma.svg" width="64px" height="64px" alt="Figma"/>
+  <img src="images/Ubuntu.svg" width="64px" height="64px" alt="Ubuntu"/>
+  <img src="images/Docker.svg" width="64px" height="64px" alt="Docker"/>
 </div>
