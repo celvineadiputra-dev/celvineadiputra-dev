@@ -1,6 +1,6 @@
 ### Hay There :wave:
 
-![](https://visitor-badge.glitch.me/badge?page_id=celvineadiputra-dev.celvineadiputra-dev)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcelvineadiputra-dev&labelColor=%2300bbf9&countColor=%23263759)
 
 ### Hay, Nice To Meet You
 Hey, nice to meet you, I’m Celvine Adi Putra, but people here call me Celvine. I grew up in Indonesia, and I can speak Indonesia and a little bit of English. I love to code and design. For my profile and what I work on, you can visit this website for more details about me  <a href="https://celvineadiputra.vercel.app/">celvineadiputra.vercel.app</a>.
